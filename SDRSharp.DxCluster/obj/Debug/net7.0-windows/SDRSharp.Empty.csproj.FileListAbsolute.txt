@@ -1,0 +1,13 @@
+C:\work\git\Test\sdrsharp-plugin-sdk-vs2022\sdrplugins\Debug\net7.0-windows\SDRSharp.Empty.deps.json
+C:\work\git\Test\sdrsharp-plugin-sdk-vs2022\sdrplugins\Debug\net7.0-windows\SDRSharp.Empty.dll
+C:\work\git\Test\sdrsharp-plugin-sdk-vs2022\sdrplugins\Debug\net7.0-windows\SDRSharp.Empty.pdb
+C:\work\git\Test\sdrsharp-plugin-sdk-vs2022\sdrplugins\Empty\obj\Debug\net7.0-windows\SDRSharp.Empty.csproj.AssemblyReference.cache
+C:\work\git\Test\sdrsharp-plugin-sdk-vs2022\sdrplugins\Empty\obj\Debug\net7.0-windows\SDRSharp.Empty.ControlPanel.resources
+C:\work\git\Test\sdrsharp-plugin-sdk-vs2022\sdrplugins\Empty\obj\Debug\net7.0-windows\SDRSharp.Empty.csproj.GenerateResource.cache
+C:\work\git\Test\sdrsharp-plugin-sdk-vs2022\sdrplugins\Empty\obj\Debug\net7.0-windows\SDRSharp.Empty.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\git\Test\sdrsharp-plugin-sdk-vs2022\sdrplugins\Empty\obj\Debug\net7.0-windows\SDRSharp.Empty.csproj.CoreCompileInputs.cache
+C:\work\git\Test\sdrsharp-plugin-sdk-vs2022\sdrplugins\Empty\obj\Debug\net7.0-windows\SDRSharp.7B65EA3E.Up2Date
+C:\work\git\Test\sdrsharp-plugin-sdk-vs2022\sdrplugins\Empty\obj\Debug\net7.0-windows\SDRSharp.Empty.dll
+C:\work\git\Test\sdrsharp-plugin-sdk-vs2022\sdrplugins\Empty\obj\Debug\net7.0-windows\refint\SDRSharp.Empty.dll
+C:\work\git\Test\sdrsharp-plugin-sdk-vs2022\sdrplugins\Empty\obj\Debug\net7.0-windows\SDRSharp.Empty.pdb
+C:\work\git\Test\sdrsharp-plugin-sdk-vs2022\sdrplugins\Empty\obj\Debug\net7.0-windows\ref\SDRSharp.Empty.dll
